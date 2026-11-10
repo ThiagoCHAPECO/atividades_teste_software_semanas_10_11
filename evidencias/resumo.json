@@ -1,0 +1,32 @@
+{
+  "java": [
+    {
+      "projeto": "SEMANA10/bubblesort-tdd",
+      "testes": 8
+    },
+    {
+      "projeto": "SEMANA10/carrinho-compras-tdd",
+      "testes": 13
+    },
+    {
+      "projeto": "SEMANA10/conta-bancaria-tdd-maven",
+      "testes": 11
+    },
+    {
+      "projeto": "SEMANA10/estoque-tdd",
+      "testes": 10
+    },
+    {
+      "projeto": "SEMANA11/complementares/tdd-estacionamento",
+      "testes": 6
+    },
+    {
+      "projeto": "SEMANA11/complementares/teste-integracao-maven",
+      "testes": 5
+    },
+    {
+      "projeto": "SEMANA11/exercicios_integracao_springboot",
+      "testes": 18
+    }
+  ]
+}
