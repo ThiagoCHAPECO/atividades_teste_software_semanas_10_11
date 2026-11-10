@@ -2,9 +2,7 @@
 
 **Colaborador:** Thiago Gimenes.
 
-**Identificação acadêmica:** preencher RA e turma antes de publicar. Se houver dupla, incluir o nome e o RA do segundo integrante e contribuições reais de ambos.
-
-Implementações realizadas a partir do projeto-base da disciplina, preservando os pacotes, assinaturas e testes fornecidos da Semana 10. As classes de teste da Semana 11 foram completadas e ampliadas; a aplicação Spring Boot original foi mantida. Os projetos de exemplo da Semana 11 estão em `complementares`, separados da lista principal.
+**Identificação acadêmica:** NOME: Thiago Gimenes Santos. RA:24016862-2. TURMA: ESOFT-6S-A.
 
 ## Executar as atividades Java
 
