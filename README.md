@@ -29,7 +29,7 @@ O comando executa os sete módulos. Para executar um projeto isoladamente, entre
 
 ### Resultado de validação registrado
 
-O registro de validação de 11/10/2026 informa a execução com Microsoft OpenJDK 17.0.17 e Maven 3.9.9, com **71 testes aprovados**, zero falhas, zero erros e zero testes ignorados. As invocações dos testes parametrizados são contadas individualmente pelo JUnit.
+O registro de validação de 10/11/2026 informa a execução com Microsoft OpenJDK 17.0.17 e Maven 3.9.9, com **71 testes aprovados**, zero falhas, zero erros e zero testes ignorados. As invocações dos testes parametrizados são contadas individualmente pelo JUnit.
 
 | Projeto | Testes aprovados |
 | --- | ---: |
@@ -39,7 +39,7 @@ O registro de validação de 11/10/2026 informa a execução com Microsoft OpenJ
 | `SEMANA10/estoque-tdd` | 10 |
 | `SEMANA11/complementares/tdd-estacionamento` | 6 |
 | `SEMANA11/complementares/teste-integracao-maven` | 5 |
-| `SEMANA11/exercícios_integração_springboot` | 18 |
+| `SEMANA11/exercicios_integracao_springboot` | 18 |
 | **Total** | **71** |
 
 A saída completa está registrada em `evidencias/02-suite-java.log`, e os resumos do Surefire estão em `evidencias/junit/`. Os arquivos compilados da pasta `target/` ficam fora da entrega.
