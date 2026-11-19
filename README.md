@@ -1,4 +1,4 @@
-# Atividades de Teste de Software - Semanas 10 e 11
+# Atividades de Teste de Software - Semanas 10, 11 e 14
 
 **Colaborador:** Thiago Gimenes.
 
