@@ -1,8 +1,12 @@
 # Atividades de Teste de Software - Semanas 10, 11 e 14
 
-**Colaborador:** Thiago Gimenes.
+**Colaborador:** Thiago Gimenes Santos.
 
 **Identificação acadêmica:** NOME: Thiago Gimenes Santos. RA:24016862-2. TURMA: ESOFT-6S-A.
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 ## Executar as atividades Java
 
